@@ -34,6 +34,8 @@ This repository contains the code and demonstration media for an image-guided su
 | **Software Engineering** | GitHub, modular Python structure   | Clean code, documentation, version control    |
 | **Biotech / Med-Robotics**| ArUco markers, surgical simulacrum| Simulated surgical trajectory planning, safety considerations |
 
+Please see the pdf file for the concurrent media images that describe the robot and its movement. 
+
 ---
 
 
